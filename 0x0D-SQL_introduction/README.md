@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x0D - SQL - Introduction
 
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
@@ -12,3 +13,6 @@ At the end of this project, I am expected to be able to explain to anyone, witho
 * How to `INSERT`, `UPDATE` or `DELETE` data
 * What are `subqueries`
 * How to use MySQL functions
+=======
+# 0x0D. SQL - Introduction
+>>>>>>> e7fe8358605b3553014b196166594f9e13cafb08

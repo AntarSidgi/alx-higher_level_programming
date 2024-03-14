@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x0E - SQL - More queries
 
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
@@ -9,3 +10,6 @@ At the end of this project, I am expected to be able to explain to anyone, witho
 * How to retrieve datas from multiple tables in one request
 * What are subqueries
 * What are `JOIN` and `UNION`
+=======
+# 0x0E. SQL - More queries
+>>>>>>> e7fe8358605b3553014b196166594f9e13cafb08
